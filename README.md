@@ -3,9 +3,12 @@
 Script que realiza o tratamento de dados do IBGE e do SIAFI unificando em uma tabela de municípios e outra de ceps
 
 Fontes originais: 
-    - https://www.tesourotransparente.gov.br/ckan/dataset/lista-de-municipios-do-siafi
-    - https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html
-    - https://github.com/datasets-br/city-codes
+    
+    https://www.tesourotransparente.gov.br/ckan/dataset/lista-de-municipios-do-siafi
+    
+    https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html
+    
+    https://github.com/datasets-br/city-codes
 
 # Como executar
 
