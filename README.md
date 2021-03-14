@@ -1,6 +1,6 @@
 # O que é?
 
-Script que realiza o tratamento de dados do IBGE e do SIFIA unificando em uma tabela de municípios e outra de ceps
+Script que realiza o tratamento de dados do IBGE e do SIAFI unificando em uma tabela de municípios e outra de ceps
 
 Fontes originais: 
     - https://www.tesourotransparente.gov.br/ckan/dataset/lista-de-municipios-do-siafi
