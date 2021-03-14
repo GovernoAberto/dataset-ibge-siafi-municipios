@@ -1,3 +1,7 @@
+download/*.csv
+download/*.xls
+download/*.xlsx
+output/*csv
 Dockerfile
 .env
 .Rhistory
