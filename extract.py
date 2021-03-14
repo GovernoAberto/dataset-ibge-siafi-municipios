@@ -1,6 +1,9 @@
 import urllib.request
 import os, zipfile
 
+if not os.path.exists("./download"):
+    os.makedirs("./download")
+
 urllib.request.urlretrieve("https://www.tesourotransparente.gov.br/ckan/dataset/abb968cb-3710-4f85-89cf-875c91b9c7f6/resource/eebb3bc6-9eea-4496-8bcf-304f33155282/download/TABMUN-SIAFI.xlsx", "./download/SIAFI.xlsx")
 
 urllib.request.urlretrieve("https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2020/DTB_2020_v2.zip", "./download/IBGE.zip")
